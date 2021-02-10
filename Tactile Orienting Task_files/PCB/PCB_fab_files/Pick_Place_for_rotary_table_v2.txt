@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\Mark\Desktop\UCSD\current_projects\Salk\rotary_table\PCB\rotary_table_v2\Project Outputs for rotary_table_v2\Pick Place\Pick Place for rotary_table_v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/10/20
+Time:       12:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Footprint          
+C1         TopLayer 27.9998      45.0000      360      C0603              
+C2         TopLayer 27.9999      43.0000      0        C0603              
+J1         TopLayer 59.3501      19.2301      270      TECO-1-1337543-0_V 
+J3         TopLayer 31.4400      34.7300      360      D2510-6002         
+J4         TopLayer 25.6750      16.8001      270      DF3EA-2P-2V(21)    
+LED1       TopLayer 46.8901      19.1575      270      LED0603            
+LED2       TopLayer 31.6000      6.1402       180      LED0603            
+LED3       TopLayer 36.0000      46.0000      270      LED0603            
+LED4       TopLayer 38.8676      46.0500      270      LED0603            
+LED5       TopLayer 40.1000      20.1501      270      LED0603            
+LED6       TopLayer 37.7001      20.1501      270      LED0603            
+LED7       TopLayer 35.2999      20.1501      270      LED0603            
+LED8       TopLayer 41.4676      46.0500      270      LED0603            
+Q1         TopLayer 31.6000      11.4500      90       SC59-3             
+Q2         TopLayer 44.9620      45.2500      360      SOT23-3            
+R1         TopLayer 46.8902      16.1575      270      R0603              
+R2         TopLayer 31.6000      8.2000       180      R0603              
+R3         TopLayer 28.6000      6.1401       180      R0603              
+R4         TopLayer 36.0000      43.0000      270      R0603              
+R5         TopLayer 38.8676      43.0501      270      R0603              
+R6         TopLayer 40.1000      17.1501      270      R0603              
+R7         TopLayer 37.7001      17.1501      270      R0603              
+R8         TopLayer 35.3000      17.1501      270      R0603              
+R9         TopLayer 41.4676      43.0500      270      R0603              
+U1         TopLayer 31.5320      44.0000      90       WSON-8_PAD         

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [rotary_table_v2.pcbdoc]
+   Generated File[rotary_table_v2.TXT]
+   Generated File[rotary_table_v2.LDP]
+   Generated File[rotary_table_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:14:52 PM On 10/15/2020

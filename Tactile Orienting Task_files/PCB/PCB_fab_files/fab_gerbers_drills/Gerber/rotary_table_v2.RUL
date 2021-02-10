@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Mark\Desktop\UCSD\current_projects\Salk\rotary_table\PCB\rotary_table_v2\rotary_table_v2.pcbdoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
